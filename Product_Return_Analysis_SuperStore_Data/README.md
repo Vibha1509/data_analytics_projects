@@ -1,4 +1,3 @@
-PRESENTATION
 <img width="560" alt="s1" src="https://github.com/user-attachments/assets/eca1eccd-7484-4a22-8f32-93b52cae0583" />
 <img width="560" alt="s2" src="https://github.com/user-attachments/assets/77733143-fcf2-4a5c-ade6-4c2d117b2881" />
 <img width="561" alt="s3" src="https://github.com/user-attachments/assets/bf13fb8e-ac04-4fa7-afc8-1891c93fa1d3" />
