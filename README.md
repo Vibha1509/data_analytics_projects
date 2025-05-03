@@ -3,7 +3,7 @@ Portfolio of completed projects I worked on while attending the BI Analytics Tri
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [PROJECT NAME](https://github.com/Vibha1509/data_analytics_projects/edit/main/README.md) | DESCRIPTION HERE. |
+| 1 | [PROJECT 1](https://github.com/Vibha1509/data_analytics_projects/edit/main/README.md) | DESCRIPTION HERE. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
